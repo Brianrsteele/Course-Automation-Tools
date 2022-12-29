@@ -1,0 +1,55 @@
+{ "important_dates" : [
+    {"year" : "2022",
+    "semester" : "Summer",
+    "May 31, 2022" : "Classes Begin",
+    "June 20, 2022" : "Juneteenth Holiday",
+    "July 4, 2022" : "Independence Day Holiday",
+    "August 5, 2022" : "Summer Semester Classes End"
+    },
+    {"year" : "2022",
+    "semester": "Fall",
+    "August 18, 2022" : "Student Welcome Day",
+	"August 22, 2022" : "Fall Semester Classes Begin" ,
+    "August 26, 2022" : "Last Day to Drop",
+    "September 5, 2022" : "Labor Day Holiday",
+    "September 14, 2022" : "Student Success Day",
+    "October 11, 2022" : "Faculty Development Day",
+    "October 20, 2022" : "Education Minnesota Conference",
+    "October 21, 2022" : "Education Minnesota Conference",
+    "November 8, 2022" : "General Election", 
+    "November 11, 2022" : "Veterans Day Holiday",
+    "November 24, 2022" : "Thanksgiving Break",
+    "November 25, 2022" : "Thanksgiving Break",
+    "December 16, 2022" : "Fall Semester Ends"
+    },
+    {"year" : "2023",
+    "semester" : "Spring", 
+    "Jan. 9, 2023" : "Spring Semester Classes begin",
+    "Jan. 13, 2023" : "Last Day to Drop",
+    "Jan. 16, 2023" : "Martin Luther King Day Holiday",
+    "Feb. 7, 2023" : "Employee Development Day",
+    "Feb. 20, 2023" : "Presidents' Day Holiday",
+    "March 6, 2023" : "Spring Break",
+    "March 7, 2023" : "Spring Break",
+    "March 8, 2023" : "Spring Break",
+    "March 9, 2023" : "Spring Break",
+    "March 10, 2023" : "Spring Break",
+    "April 20, 2023" : "Faculty Development Day",
+    "May 10, 2023" : "Faculty Development Day/Spring Semester Ends/Commencement"
+     },
+    {"year" : "2023", 
+    "semester": "Summer",
+    "May 30, 2023" : "Summer Semester Classes Begin", 
+    "June 19, 2023" : "Juneteenth Holiday", 
+    "July 4, 2023" : "Independence Day Holiday", 
+    "August 4, 2023" : "Summer Semester Classes End" 
+    }   
+    ]}
+
+
+ 
+
+
+
+
+
