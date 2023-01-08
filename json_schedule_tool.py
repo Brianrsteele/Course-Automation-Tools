@@ -16,11 +16,11 @@ from docx.shared import Inches
 DATES_FILE = '2022-23.json'
 YEAR = '2023'
 SEMESTER = 'Spring'
-COURSE = 'ART 1184'
-SECTION = '71'
+COURSE = 'ART 2280'
+SECTION = '01'
 
 # these need to be the full day name and capitalized
-DAYS_OF_WEEK = ['Sunday']
+DAYS_OF_WEEK = ['Wednesday']
 FILE_NAME = COURSE +  '-' + SECTION + ' ' + SEMESTER + ' ' + YEAR
 
 
