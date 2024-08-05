@@ -13,14 +13,14 @@ from docx.shared import Inches
 
 # json formated file to read dates from
 # must be updated before running
-DATES_FILE = '2022-23.json'
-YEAR = '2023'
+DATES_FILE = '2023-24.json'
+YEAR = '2024'
 SEMESTER = 'Spring'
-COURSE = 'ART 2280'
+COURSE = 'COMP 1741'
 SECTION = '01'
 
 # these need to be the full day name and capitalized
-DAYS_OF_WEEK = ['Wednesday']
+DAYS_OF_WEEK = ['Tuesday', 'Thursday']
 FILE_NAME = COURSE +  '-' + SECTION + ' ' + SEMESTER + ' ' + YEAR
 
 
@@ -31,14 +31,17 @@ def main():
     # and important dates recorded
     f = open(DATES_FILE)
     data = json.load(f)
+    
 
     # find the data for important dates in the
     # data dictionary
     cal = data['important_dates']
 
+
     # add [0] at the end to get just the dictionary, not the list which contains
     # a dictionary
     semester = [sem for sem in cal if sem['year'] == YEAR and sem['semester'] == SEMESTER][0]
+    
 
     # get rid of year and semester fields
     # and keys for values
